@@ -1,1 +1,0 @@
-# zuri_crud_task_Django
